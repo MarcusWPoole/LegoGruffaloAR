@@ -1,7 +1,5 @@
 # The Gruffalo AR App
 
-PRO-TIP: REMOVE THAT ONE FUCKING IMAGE THAT CAN RUIN THE WHOLE PUSH
-
 Lego Baseplates: https://sketchfab.com/3d-models/lego-detalic-7-baseplate-2ff825be0b9241b38c9358343d4e5016
 
 Lego Forest: https://sketchfab.com/3d-models/2-21a3f87f256a4a26a94d52ce525688a2
